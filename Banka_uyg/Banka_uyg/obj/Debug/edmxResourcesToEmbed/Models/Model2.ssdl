@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KurumModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Hgs">
+    <Key>
+      <PropertyRef Name="HgsId" />
+    </Key>
+    <Property Name="HgsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HgsHesap" Type="int" Nullable="false" />
+    <Property Name="MusteriTc" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Tutar" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="Tc" />
+    </Key>
+    <Property Name="Tc" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Eposta" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Hgs_Musteriler">
+    <End Role="Hgs" Type="Self.Hgs" Multiplicity="1" />
+    <End Role="Hgs1" Type="Self.Hgs" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Hgs">
+        <PropertyRef Name="HgsId" />
+      </Principal>
+      <Dependent Role="Hgs1">
+        <PropertyRef Name="HgsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KurumModelStoreContainer">
+    <EntitySet Name="Hgs" EntityType="Self.Hgs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Hgs_Musteriler" Association="Self.FK_Hgs_Musteriler">
+      <End Role="Hgs" EntitySet="Hgs" />
+      <End Role="Hgs1" EntitySet="Hgs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

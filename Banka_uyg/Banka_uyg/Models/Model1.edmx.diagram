@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4bbec0d09c374792a55b58ad56f57512" Name="Diagram1">
+        <EntityTypeShape EntityType="BankaModel.Havale" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankaModel.Hesaplar" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankaModel.Hgs" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankaModel.Kredi" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankaModel.Musteriler" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankaModel.Virman" Width="1.5" PointX="3" PointY="10.75" IsExpanded="true" />
+        <AssociationConnector Association="BankaModel.FK_Havale_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="BankaModel.FK_Hesaplar_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="BankaModel.FK_Hgs_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="BankaModel.FK_Kredi_Musteriler" ManuallyRouted="false" />
+        <AssociationConnector Association="BankaModel.FK_Virman_Musteriler" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

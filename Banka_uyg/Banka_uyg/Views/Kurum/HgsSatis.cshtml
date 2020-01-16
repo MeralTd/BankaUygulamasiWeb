@@ -1,0 +1,149 @@
+﻿@model IEnumerable<Banka_uyg.Models.Hesaplar>
+@{
+    ViewBag.Title = "HgsSatis";
+}
+<html lang="en">
+<head>
+    <title>Hgs Satış</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/Content/Login_v16/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/css/main.css">
+    <!--===============================================================================================-->
+
+
+    <link href="~/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+</head>
+<body style="color:white">
+    <form id="form-hgsSatis" action="~/Kurum/HgsSatis" method="post">
+        <div class="limiter">
+            <div class="container-login100" style="background-image: url('/Content/Login_v16/images/hgs.jpg'); opacity:50">
+                <div class="wrap-login100 p-t-30 p-b-50">
+                    <a href="~/Home/About">  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> </a>
+                    <span class="login100-form-title p-b-41">
+                        HGS Satış İşlemi
+                    </span>
+                    <form class="login100-form validate-form p-b-33 p-t-5">
+
+                        <div class="wrap-input100 validate-input">
+                            Tc:
+                            <input class="input100" type="text" name="tc" value="@Session["UserTc"].ToString()" placeholder="" style="color:azure" disabled="disabled">
+
+                        </div>
+
+                        <div class="wrap-input100 validate-input">
+                            Hgs Numarası:
+                            <input class="input100" type="text" name="hgshesap" value="@Session["HgsHesap"].ToString()" placeholder="" style="color:azure" disabled="disabled">
+
+                        </div>
+
+                        <div class="wrap-input100 validate-input">
+                            Tutar:
+                            <input class="input100" type="text" name="tutar" placeholder="" style="color:azure;" required maxlength="10" onkeypress="return isNumberKey(event)">
+
+
+                        </div>
+                        <div class="wrap-input100 validate-input">
+                            <select class="input100" name="hesap" style="color:azure">
+                                @if (Model != null)
+                                {
+                                    <option value="0" name="ekno" class="form-control" selected="">Hesap Numarası Seçiniz...</option>
+                                    /* gelen model boş değilse kiişinin diğer hesaplarını listele.*/
+                                    foreach (var item in Model)
+                                    {
+                                        if (item.HesapDurum == true)
+                                        {
+                                            <option value="@Html.DisplayFor(modelItem => item.EkNumara)" class="form-control">
+                                                @Html.DisplayFor(modelItem => item.HesapNo)-@Html.DisplayFor(modelItem => item.EkNumara)
+                                            </option>
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    <option value="0" name="ekno" class="form-control" selected="">Aktif Hesabınız Bulunmamaktadır.</option>
+                                }
+
+                            </select>
+
+                        </div>
+                        <div class="container-login100-form-btn m-t-32">
+                            <button id="satinAl" class="login100-form-btn">
+                                Satın Al
+                            </button>
+                        </div>
+                        <br />
+                        <br />
+                        <p style="color:red"> @ViewBag.kontrol</p>
+                        <p style="color:red"> @ViewBag.hataa</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </form>
+    <div id="dropDownSelect1"></div>
+    <script src="~/Scripts/creative.min.js"></script>
+
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/alertify/alertify.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/bootstrap/js/popper.js"></script>
+    <script src="~/Content/Login_v16/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/daterangepicker/moment.min.js"></script>
+    <script src="~/Content/Login_v16/vendor/daterangepicker/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/countdowntime/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/js/main.js"></script>
+
+
+</body>
+</html>
+
+<script>
+        $("#satinAl").click(function () {
+            var message ='@TempData["Kayit"]'
+            if (message != '')
+                alertify.success(message);
+
+
+
+        });
+</script>
+<script>
+        function isNumberKey(evt) {
+
+            var charCode = (evt.which) ? evt.which : event.keyCode;
+            if ((charCode > 47 && charCode < 58) || charCode ==44)
+                return true;
+            return false;
+        }
+</script>

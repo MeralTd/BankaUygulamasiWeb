@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Havale">
+    <Key>
+      <PropertyRef Name="HavaleId" />
+    </Key>
+    <Property Name="HavaleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Miktar" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GidenHesapNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GelenHesapNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MusteriId" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Kanal" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Havale_Musteriler" FromRole="Havale" ToRole="Musteriler" />
+  </EntityType>
+  <EntityType Name="Hesaplar">
+    <Key>
+      <PropertyRef Name="HesapID" />
+    </Key>
+    <Property Name="HesapID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="HesapNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Bakiye" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="EkNumara" Type="Int32" Nullable="false" />
+    <Property Name="HesapDurum" Type="Boolean" Nullable="false" />
+    <Property Name="Kanal" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Hesaplar_Musteriler" FromRole="Hesaplar" ToRole="Musteriler" />
+  </EntityType>
+  <EntityType Name="Hgs">
+    <Key>
+      <PropertyRef Name="HgsId" />
+    </Key>
+    <Property Name="HgsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HgsHesap" Type="Int32" Nullable="false" />
+    <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tutar" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Kanal" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Hgs1" Relationship="Self.FK_Hgs_Musteriler" FromRole="Hgs" ToRole="Hgs1" />
+    <NavigationProperty Name="Hgs2" Relationship="Self.FK_Hgs_Musteriler" FromRole="Hgs1" ToRole="Hgs" />
+  </EntityType>
+  <EntityType Name="Kredi">
+    <Key>
+      <PropertyRef Name="KrediId" />
+    </Key>
+    <Property Name="KrediId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KrediTutar" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="KrediDurum" Type="Boolean" Nullable="false" />
+    <Property Name="MusteriId" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Kredi_Musteriler" FromRole="Kredi" ToRole="Musteriler" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="TC" />
+    </Key>
+    <Property Name="TC" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DoğumTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Telefon" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EMail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Kanal" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Havale" Relationship="Self.FK_Havale_Musteriler" FromRole="Musteriler" ToRole="Havale" />
+    <NavigationProperty Name="Hesaplar" Relationship="Self.FK_Hesaplar_Musteriler" FromRole="Musteriler" ToRole="Hesaplar" />
+    <NavigationProperty Name="Kredi" Relationship="Self.FK_Kredi_Musteriler" FromRole="Musteriler" ToRole="Kredi" />
+    <NavigationProperty Name="Virman" Relationship="Self.FK_Virman_Musteriler" FromRole="Musteriler" ToRole="Virman" />
+  </EntityType>
+  <EntityType Name="Virman">
+    <Key>
+      <PropertyRef Name="VirmanId" />
+    </Key>
+    <Property Name="VirmanId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Miktar" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="GidenHesapNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GelenHesapNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MusteriId" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="Kanal" Type="String" MaxLength="6" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Musteriler" Relationship="Self.FK_Virman_Musteriler" FromRole="Virman" ToRole="Musteriler" />
+  </EntityType>
+  <Association Name="FK_Havale_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="Havale" Type="Self.Havale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="TC" />
+      </Principal>
+      <Dependent Role="Havale">
+        <PropertyRef Name="MusteriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Hesaplar_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="Hesaplar" Type="Self.Hesaplar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="TC" />
+      </Principal>
+      <Dependent Role="Hesaplar">
+        <PropertyRef Name="MusteriTc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Hgs_Musteriler">
+    <End Role="Hgs" Type="Self.Hgs" Multiplicity="1" />
+    <End Role="Hgs1" Type="Self.Hgs" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Hgs">
+        <PropertyRef Name="HgsId" />
+      </Principal>
+      <Dependent Role="Hgs1">
+        <PropertyRef Name="HgsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Kredi_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="Kredi" Type="Self.Kredi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="TC" />
+      </Principal>
+      <Dependent Role="Kredi">
+        <PropertyRef Name="MusteriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Virman_Musteriler">
+    <End Role="Musteriler" Type="Self.Musteriler" Multiplicity="1" />
+    <End Role="Virman" Type="Self.Virman" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteriler">
+        <PropertyRef Name="TC" />
+      </Principal>
+      <Dependent Role="Virman">
+        <PropertyRef Name="MusteriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BankaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Havale" EntityType="Self.Havale" />
+    <EntitySet Name="Hesaplar" EntityType="Self.Hesaplar" />
+    <EntitySet Name="Hgs" EntityType="Self.Hgs" />
+    <EntitySet Name="Kredi" EntityType="Self.Kredi" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" />
+    <EntitySet Name="Virman" EntityType="Self.Virman" />
+    <AssociationSet Name="FK_Havale_Musteriler" Association="Self.FK_Havale_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Havale" EntitySet="Havale" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Hesaplar_Musteriler" Association="Self.FK_Hesaplar_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Hesaplar" EntitySet="Hesaplar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Hgs_Musteriler" Association="Self.FK_Hgs_Musteriler">
+      <End Role="Hgs" EntitySet="Hgs" />
+      <End Role="Hgs1" EntitySet="Hgs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Kredi_Musteriler" Association="Self.FK_Kredi_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Kredi" EntitySet="Kredi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Virman_Musteriler" Association="Self.FK_Virman_Musteriler">
+      <End Role="Musteriler" EntitySet="Musteriler" />
+      <End Role="Virman" EntitySet="Virman" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

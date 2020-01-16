@@ -1,0 +1,1008 @@
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll.config
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Banka_uyg.pdb
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\netstandard.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.AppContext.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Collections.Concurrent.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Collections.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Collections.NonGeneric.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Collections.Specialized.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ComponentModel.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ComponentModel.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Console.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Data.Common.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Contracts.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Debug.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Process.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tools.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TraceSource.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tracing.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Drawing.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Dynamic.Runtime.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Globalization.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Globalization.Extensions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.Compression.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.IsolatedStorage.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.Pipes.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Linq.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Linq.Expressions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Linq.Parallel.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Linq.Queryable.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Http.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.NameResolution.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.NetworkInformation.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Ping.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Requests.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Security.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.Sockets.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.WebHeaderCollection.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.Client.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ObjectModel.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Reflection.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Reflection.Extensions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Reflection.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Resources.Reader.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Resources.ResourceManager.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Resources.Writer.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Extensions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Handles.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Numerics.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Json.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Claims.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Csp.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.Principal.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Security.SecureString.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.Extensions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Text.RegularExpressions.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.Overlapped.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.Thread.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.ThreadPool.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Threading.Timer.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.ValueTuple.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.XDocument.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.XmlSerializer.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\EntityFramework.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Buffers.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Memory.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\WebGrease.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\EntityFramework.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Buffers.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Memory.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.Razor.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CopyComplete
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.dll
+C:\Users\PC\Desktop\ders\4.sınıf\yazılım bakım\WebUYG\BANKA SON HALİ\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.pdb
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CoreCompileInputs.cache
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.pdb
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll.config
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.pdb
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe.config
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.rsp
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe.config
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.rsp
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.AppContext.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Console.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Http.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe.config
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.rsp
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Win32.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\netstandard.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.AppContext.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Concurrent.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.NonGeneric.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Specialized.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Console.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Data.Common.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Contracts.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Debug.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Process.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.StackTrace.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tools.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TraceSource.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tracing.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Drawing.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Dynamic.Runtime.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Calendars.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Extensions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.ZipFile.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.IsolatedStorage.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Pipes.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Expressions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Parallel.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Queryable.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NameResolution.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NetworkInformation.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Ping.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Requests.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Security.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Sockets.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebHeaderCollection.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.Client.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ObjectModel.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Extensions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Reader.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.ResourceManager.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Writer.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Extensions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Handles.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Numerics.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Json.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Claims.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Csp.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Principal.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.SecureString.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.Extensions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.RegularExpressions.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Overlapped.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Thread.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.ThreadPool.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Timer.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ValueTuple.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.ReaderWriter.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XDocument.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlDocument.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlSerializer.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.XDocument.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\WebGrease.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.pdb
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Razor.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CopyComplete
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csprojAssemblyReference.cache
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.pdb
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll.config
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.pdb
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe.config
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.rsp
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe.config
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.rsp
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.AppContext.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Console.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Http.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe.config
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.rsp
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\netstandard.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.AppContext.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Concurrent.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.NonGeneric.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Specialized.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Console.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Data.Common.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Contracts.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Debug.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Process.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tools.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tracing.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Drawing.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Dynamic.Runtime.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Calendars.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Extensions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.IsolatedStorage.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Pipes.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Expressions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Parallel.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Queryable.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NameResolution.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NetworkInformation.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Ping.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Requests.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Security.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Sockets.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.Client.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ObjectModel.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Extensions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Reader.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.ResourceManager.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Writer.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Extensions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Handles.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Numerics.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Claims.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Principal.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.SecureString.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.RegularExpressions.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Overlapped.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Thread.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.ThreadPool.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Timer.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ValueTuple.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.ReaderWriter.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XDocument.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlDocument.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlSerializer.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\WebGrease.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.pdb
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CopyComplete
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csprojAssemblyReference.cache
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CoreCompileInputs.cache
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.pdb
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll.config
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.pdb
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe.config
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.rsp
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe.config
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.rsp
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.AppContext.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Collections.Immutable.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Console.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Globalization.Calendars.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Http.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Sockets.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Reflection.Metadata.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.ValueTuple.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe.config
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.rsp
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe.config
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Win32.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\netstandard.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.AppContext.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Concurrent.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.NonGeneric.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Specialized.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.EventBasedAsync.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.TypeConverter.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Console.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Data.Common.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Contracts.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Debug.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.FileVersionInfo.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Process.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.StackTrace.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tools.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TraceSource.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tracing.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Drawing.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Dynamic.Runtime.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Calendars.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Extensions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.ZipFile.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.DriveInfo.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Watcher.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.IsolatedStorage.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.MemoryMappedFiles.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Pipes.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.UnmanagedMemoryStream.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Expressions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Parallel.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Queryable.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NameResolution.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NetworkInformation.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Ping.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Requests.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Security.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Sockets.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebHeaderCollection.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.Client.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ObjectModel.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Extensions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Reader.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.ResourceManager.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Writer.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Extensions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Handles.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Numerics.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Formatters.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Json.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Xml.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Claims.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Algorithms.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Csp.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Encoding.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Primitives.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.X509Certificates.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Principal.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.SecureString.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.Extensions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.RegularExpressions.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Overlapped.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.Parallel.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Thread.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.ThreadPool.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Timer.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ValueTuple.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.ReaderWriter.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XDocument.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlDocument.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlSerializer.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.XDocument.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Web.Infrastructure.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\WebGrease.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.xml
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.pdb
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Helpers.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Mvc.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Razor.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Optimization.resources.dll
+D:\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CopyComplete
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.dll
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.xml
+C:\Users\Ayse\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.dll
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.xml
+C:\Users\kulas\Desktop\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csprojAssemblyReference.cache
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll.config
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Banka_uyg.pdb
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.exe.config
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csc.rsp
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.exe.config
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\csi.rsp
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.AppContext.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Console.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Http.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.exe.config
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\vbc.rsp
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Win32.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\netstandard.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.AppContext.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Concurrent.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.NonGeneric.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Collections.Specialized.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Console.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Data.Common.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Contracts.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Debug.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Process.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.StackTrace.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tools.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.TraceSource.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.Tracing.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Drawing.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Dynamic.Runtime.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Calendars.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Globalization.Extensions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Compression.ZipFile.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.IsolatedStorage.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.Pipes.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Expressions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Parallel.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Linq.Queryable.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NameResolution.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.NetworkInformation.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Ping.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Requests.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Security.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Sockets.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebHeaderCollection.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.Client.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.WebSockets.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ObjectModel.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Extensions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Reflection.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Reader.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.ResourceManager.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Resources.Writer.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Extensions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Handles.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Numerics.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Json.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Claims.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Csp.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.Principal.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Security.SecureString.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.Encoding.Extensions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Text.RegularExpressions.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Overlapped.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Thread.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.ThreadPool.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Threading.Timer.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.ValueTuple.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.ReaderWriter.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XDocument.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlDocument.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XmlSerializer.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Xml.XPath.XDocument.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\WebGrease.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\EntityFramework.SqlServer.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Newtonsoft.Json.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Buffers.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Memory.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Net.Http.Formatting.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Numerics.Vectors.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Helpers.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Http.WebHost.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Mvc.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Razor.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Deployment.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.WebPages.Razor.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\System.Web.Optimization.xml
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\Antlr3.Runtime.pdb
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Razor.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csprojAssemblyReference.cache
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CoreCompileInputs.cache
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.csproj.CopyComplete
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.dll
+C:\Users\toshıba\Desktop\BANKA UYGULAMASI WEB\BANKA SON HALİ_2\Banka_uyg\Banka_uyg\obj\Debug\Banka_uyg.pdb

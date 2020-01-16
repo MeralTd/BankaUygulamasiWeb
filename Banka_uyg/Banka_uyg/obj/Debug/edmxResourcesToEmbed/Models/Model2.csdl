@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KurumModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Hgs">
+    <Key>
+      <PropertyRef Name="HgsId" />
+    </Key>
+    <Property Name="HgsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HgsHesap" Type="Int32" Nullable="false" />
+    <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tutar" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Hgs1" Relationship="Self.FK_Hgs_Musteriler" FromRole="Hgs" ToRole="Hgs1" />
+    <NavigationProperty Name="Hgs2" Relationship="Self.FK_Hgs_Musteriler" FromRole="Hgs1" ToRole="Hgs" />
+  </EntityType>
+  <EntityType Name="Musteriler">
+    <Key>
+      <PropertyRef Name="Tc" />
+    </Key>
+    <Property Name="Tc" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Eposta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Hgs_Musteriler">
+    <End Role="Hgs" Type="Self.Hgs" Multiplicity="1" />
+    <End Role="Hgs1" Type="Self.Hgs" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Hgs">
+        <PropertyRef Name="HgsId" />
+      </Principal>
+      <Dependent Role="Hgs1">
+        <PropertyRef Name="HgsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KurumEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Hgs" EntityType="Self.Hgs" />
+    <EntitySet Name="Musteriler" EntityType="Self.Musteriler" />
+    <AssociationSet Name="FK_Hgs_Musteriler" Association="Self.FK_Hgs_Musteriler">
+      <End Role="Hgs" EntitySet="Hgs" />
+      <End Role="Hgs1" EntitySet="Hgs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

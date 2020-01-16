@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Banka_uyg.Models.Hesaplar>
+@{
+    ViewBag.Title = "Virman";
+}
+<style>
+
+    body {
+        margin: 0;
+        font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        text-align: left;
+        background: linear-gradient(to bottom,rgba(92,77,66,.8) 0,rgba(92,77,66,.8) 100%),url(../img/bg-masthead.jpg);
+    }
+</style>
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Virman</title>
+    <!-- Font Awesome Icons -->
+    <link href="~/Content/CSS/all.min.css" rel="stylesheet" type="text/css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="~/Content/CSS/magnific-popup.css" rel="stylesheet">
+    <!-- Theme CSS - Includes Bootstrap -->
+    <link href="~/Content/CSS/creative.min.css" rel="stylesheet">
+
+</head>
+<body id="page-top">
+    <form id="form-bakiye" action="~/Home/Virman" method="post">
+
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h4 class="modal-title">Virman İşlemleri</h4>
+                    <a href="~/Home/HesapIslemleri"> <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button></a>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label>Hesap Numarası</label>
+                        <input type="text" class="form-control" name="hesap" value="@Session["Hesap"].ToString()" required disabled="disabled" autocomplete="off">
+                    </div>
+
+                    <div class="wrap-input100 validate-input m-b-12" data-validate="Password is required">
+                        <label>Gönderilcek Hesabı Seçiniz:</label>
+                        <select class="input100" name="ekno">
+                            @if (Model != null)
+                            {
+                                /* gelen model boş değilse kiişinin diğer hesaplarını listele.*/
+                                foreach (var item in Model)
+                                {
+                                    if (item.EkNumara.ToString() != @Session["eknumara"].ToString() && item.HesapDurum == true)
+                                    {
+                                        <option value="@Html.DisplayFor(modelItem => item.EkNumara)" class="form-control" selected="">@Html.DisplayFor(modelItem => item.EkNumara)</option>
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                <option value="0" name="ekno" class="form-control" selected="">Hesap Seçiniz...</option>
+                            }
+
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>Tutar</label>
+                        <input type="text" class="form-control" name="bakiye" step="0.01" required onkeypress="return isNumberKey(event) "autocomplete="off"maxlength="10">
+                    </div>
+                </div>
+
+                <br />
+                <div class="modal-footer">
+                    <a href="~/Home/Virman"> <center> <input type="submit" class="btn btn-success" value="YATIR"></center> </a>
+                </div>
+                <div class="modal-footer" style="color : darkred">
+                    @ViewBag.Virman
+                </div>
+
+            </div>
+        </div>
+    </form>
+
+    <script>
+        function isNumberKey(evt) {
+
+            var charCode = (evt.which) ? evt.which : event.keyCode;
+            if ((charCode > 47 && charCode < 58) || charCode ==44)
+                return true;
+            return false;
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BankaModelStoreContainer" CdmEntityContainer="BankaEntities1">
+    <EntitySetMapping Name="Havale">
+      <EntityTypeMapping TypeName="BankaModel.Havale">
+        <MappingFragment StoreEntitySet="Havale">
+          <ScalarProperty Name="HavaleId" ColumnName="HavaleId" />
+          <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+          <ScalarProperty Name="GidenHesapNo" ColumnName="GidenHesapNo" />
+          <ScalarProperty Name="GelenHesapNo" ColumnName="GelenHesapNo" />
+          <ScalarProperty Name="MusteriId" ColumnName="MusteriId" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Kanal" ColumnName="Kanal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hesaplar">
+      <EntityTypeMapping TypeName="BankaModel.Hesaplar">
+        <MappingFragment StoreEntitySet="Hesaplar">
+          <ScalarProperty Name="HesapID" ColumnName="HesapID" />
+          <ScalarProperty Name="MusteriTc" ColumnName="MusteriTc" />
+          <ScalarProperty Name="HesapNo" ColumnName="HesapNo" />
+          <ScalarProperty Name="Bakiye" ColumnName="Bakiye" />
+          <ScalarProperty Name="EkNumara" ColumnName="EkNumara" />
+          <ScalarProperty Name="HesapDurum" ColumnName="HesapDurum" />
+          <ScalarProperty Name="Kanal" ColumnName="Kanal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hgs">
+      <EntityTypeMapping TypeName="BankaModel.Hgs">
+        <MappingFragment StoreEntitySet="Hgs">
+          <ScalarProperty Name="HgsId" ColumnName="HgsId" />
+          <ScalarProperty Name="HgsHesap" ColumnName="HgsHesap" />
+          <ScalarProperty Name="MusteriTc" ColumnName="MusteriTc" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Kanal" ColumnName="Kanal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kredi">
+      <EntityTypeMapping TypeName="BankaModel.Kredi">
+        <MappingFragment StoreEntitySet="Kredi">
+          <ScalarProperty Name="KrediId" ColumnName="KrediId" />
+          <ScalarProperty Name="KrediTutar" ColumnName="KrediTutar" />
+          <ScalarProperty Name="KrediDurum" ColumnName="KrediDurum" />
+          <ScalarProperty Name="MusteriId" ColumnName="MusteriId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteriler">
+      <EntityTypeMapping TypeName="BankaModel.Musteriler">
+        <MappingFragment StoreEntitySet="Musteriler">
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="DoğumTarihi" ColumnName="DoğumTarihi" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="EMail" ColumnName="EMail" />
+          <ScalarProperty Name="Adres" ColumnName="Adres" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="Kanal" ColumnName="Kanal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Virman">
+      <EntityTypeMapping TypeName="BankaModel.Virman">
+        <MappingFragment StoreEntitySet="Virman">
+          <ScalarProperty Name="VirmanId" ColumnName="VirmanId" />
+          <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+          <ScalarProperty Name="GidenHesapNo" ColumnName="GidenHesapNo" />
+          <ScalarProperty Name="GelenHesapNo" ColumnName="GelenHesapNo" />
+          <ScalarProperty Name="MusteriId" ColumnName="MusteriId" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Kanal" ColumnName="Kanal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

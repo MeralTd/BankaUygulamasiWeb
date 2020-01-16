@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KurumModelStoreContainer" CdmEntityContainer="KurumEntities">
+    <EntitySetMapping Name="Hgs">
+      <EntityTypeMapping TypeName="KurumModel.Hgs">
+        <MappingFragment StoreEntitySet="Hgs">
+          <ScalarProperty Name="HgsId" ColumnName="HgsId" />
+          <ScalarProperty Name="HgsHesap" ColumnName="HgsHesap" />
+          <ScalarProperty Name="MusteriTc" ColumnName="MusteriTc" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Musteriler">
+      <EntityTypeMapping TypeName="KurumModel.Musteriler">
+        <MappingFragment StoreEntitySet="Musteriler">
+          <ScalarProperty Name="Tc" ColumnName="Tc" />
+          <ScalarProperty Name="Eposta" ColumnName="Eposta" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

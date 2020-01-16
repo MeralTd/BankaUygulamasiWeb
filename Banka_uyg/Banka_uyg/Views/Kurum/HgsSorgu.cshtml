@@ -1,0 +1,140 @@
+﻿@model Banka_uyg.Models.ViewModel.KurumVeri
+
+@{
+    ViewBag.Title = "HgsBakiyeYukleme";
+}
+<html lang="en">
+<head>
+    <title>HGS Bakiye Sorgulama</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/Content/Login_v16/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Login_v16/css/main.css">
+    <!--===============================================================================================-->
+    @*<script>
+
+             $(function (){
+
+                $("#hgsNo").onchange(function () {
+                    $.ajax({
+                        type: "Get",
+                         url: "http://localhost:62084/api/Hgs/val",
+                        success: function (response) {
+                               $('#bakiye').html(response);
+                        }
+
+                    });
+
+                });
+            });
+
+
+        </script>*@
+</head>
+<body style="color:white">
+    
+    <form id="form-hgsSorgu" action="~/Kurum/HgsSorgu" method="post">
+       
+        <div class="limiter">
+
+
+            <div class="container-login100" style="background-image: url('/Content/Login_v16/images/hgs.jpg'); opacity:50">
+                
+                <div class="wrap-login100 p-t-30 p-b-50">
+                    <a href="~/Home/About">  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> </a>
+                    <span class="login100-form-title p-b-41">
+                        HGS Bakiye Sorgulama
+                    </span>
+                    <form class="login100-form validate-form p-b-33 p-t-5">
+
+                        @*<div class="wrap-input100 validate-input">
+                                <select class="input100" name="hgsno" style="color:azure">
+                                    @if (Model != null)
+            {
+                /* gelen model boş değilse kiişinin diğer hesaplarını listele.*/
+                foreach (var item in Model)
+                {
+                    <option id="hgsNo" value="@Html.DisplayFor(modelItem => item.HgsHesap)" class="form-control" selected="">
+                        @Html.DisplayFor(modelItem => item.HgsHesap)
+                    </option>
+                }
+            }
+            else
+            {
+                <option value="0" name="ekno" class="form-control" selected="">Hesap Seçiniz...</option>
+            }*@
+
+                        <div class="wrap-input100 validate-input">
+                            Hgs Numarası:
+                            <input class="input100" type="text" name="hgsNo" style="color:azure" required maxlength="5" onkeypress="return isNumberKey(event)">
+
+                        </div>
+
+
+
+                        <div class="container-login100-form-btn m-t-32">
+                            <button class="login100-form-btn">
+                                Bakiye Sorgula
+                            </button>
+                        </div>
+                        <br />
+
+                        <p style="color:darkorange; text-align:left;font-size:large"> Güncel Bakiyeniz: @Html.DisplayFor(model => model.Tutar) TL <br /> Son Güncelleme:@Html.DisplayFor(model => model.Tarih)</p>
+                        <br />
+                        @*<a href="#"style="color:blue; text-align:center;font-size:medium">Bakiye Yüklemek için tıklayınız...</a>*@
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </form>
+    <div id="dropDownSelect1"></div>
+
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/bootstrap/js/popper.js"></script>
+    <script src="~/Content/Login_v16/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/daterangepicker/moment.min.js"></script>
+    <script src="~/Content/Login_v16/vendor/daterangepicker/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/vendor/countdowntime/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/Login_v16/js/main.js"></script>
+
+</body>
+</html>
+
+<script>
+    function isNumberKey(evt) {
+
+        var charCode = (evt.which) ? evt.which : event.keyCode;
+        if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+        return true;
+    }
+</script>

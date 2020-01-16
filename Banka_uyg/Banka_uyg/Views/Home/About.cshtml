@@ -1,0 +1,176 @@
+﻿@{
+    ViewBag.Title = "About";
+
+
+}
+
+<style>
+
+    body {
+        margin: 0;
+        font-family: Merriweather,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #212529;
+        text-align: left;
+        background: linear-gradient(to bottom,rgba(92,77,66,.8) 0,rgba(92,77,66,.8) 100%),url(~/Content/img/bg-masthead.jpg);
+    }
+</style>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>CodeZero Bank</title>
+    <!-- Font Awesome Icons -->
+    <link href="~/Content/CSS/all.min.css" rel="stylesheet" type="text/css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="~/Content/CSS/magnific-popup.css" rel="stylesheet">
+    <!-- Theme CSS - Includes Bootstrap -->
+    <link href="~/Content/CSS/creative.min.css" rel="stylesheet">
+    <link href="~/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+    <style>
+        .dropbtn {
+            background-color: rgb(125,113,104);
+            color: white;
+            padding: 16px;
+            font-size: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: rgb(125,113,104);
+        }
+    </style>
+
+</head>
+<body id="page-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 block" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">CZ Bankası Online İşlemler</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="~/Home/HesapIslemleri">Hesap İşlemleri</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="#">Kredi İşlemleri</a>
+                    </li>
+
+                  
+                    <li class="nav-item">
+                        
+                        <div class="dropdown">
+                            <a  class="nav-link js-scroll-trigger" class="dropbtn">HGS İşlemleri</a>
+                            <div class="dropdown-content">
+                                <a href="~/Kurum/HgsSatis">Satın Alma</a>
+                                <a href="~/Kurum/HgsSorgu">Bakiye Sorgulama</a>
+                                <a href="~/Kurum/HgsBakiyeYukleme">Bakiye Yükleme</a>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <div class="dropdown">
+                            <a class="nav-link js-scroll-trigger" class="dropbtn">
+                                @Session["UserAdSoyad"].ToString()
+
+                            </a>
+                            
+                            <div class="dropdown-content">
+                                <a href="~/Home/LogOut">Çıkış Yap</a>
+                                
+                            </div>
+                        </div>
+                       
+                    </ul>
+            </div>
+
+
+        </div>
+    </nav>
+
+    <!-- Bootstrap core JavaScript -->
+    <script>
+        $(function () {
+            var message ='İşlem Başarıyla Ger&#231;ekleştirilmiştir'
+            if (message != '')
+                alertify.success(message);
+
+
+
+        });
+    </script>
+    <script src="~/Scripts/jquery.min.js"></script>
+    <script src="~/Scripts/alertify/alertify.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="~/Scripts/jquery.easing.min.js"></script>
+    <script src="~/Scripts/jquery.magnific-popup.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="~/Scripts/creative.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+</body>
+</html>
+
+
+<header class="masthead">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center justify-content-center text-center">
+            <div class="col-lg-10 align-self-end">
+                <h1 class="text-uppercase text-white font-weight-bold">  @Session["UserAdSoyad"].ToString() Online İşlemlere Hoşgeldiniz</h1>
+                <hr class="divider my-4">
+            </div>
+            <div class="col-lg-8 align-self-baseline">
+                
+            </div>
+        </div>
+    </div>
+</header>
