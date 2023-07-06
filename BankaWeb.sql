@@ -133,7 +133,7 @@ INSERT [dbo].[Hgs] ([HgsId], [HgsHesap], [MusteriTc], [Tutar], [Tarih], [Kanal])
 INSERT [dbo].[Hgs] ([HgsId], [HgsHesap], [MusteriTc], [Tutar], [Tarih], [Kanal]) VALUES (3, 52811, N'11111111111', CAST(100.00 AS Decimal(18, 2)), CAST(N'2019-11-12T22:39:34.520' AS DateTime), N'Web')
 INSERT [dbo].[Hgs] ([HgsId], [HgsHesap], [MusteriTc], [Tutar], [Tarih], [Kanal]) VALUES (4, 32326, N'14725836914', CAST(180.10 AS Decimal(18, 2)), CAST(N'2019-11-12T22:53:00.640' AS DateTime), N'Web')
 SET IDENTITY_INSERT [dbo].[Hgs] OFF
-INSERT [dbo].[Musteriler] ([TC], [Ad], [Soyad], [Cinsiyet], [DoğumTarihi], [Telefon], [EMail], [Adres], [Sifre], [Kanal]) VALUES (N'11111111111', N'Test', N'Test', N'0', N'1998-01-01', N'05444317090', N'test@gmail.com', N'sf', N'123456', N'web')
+INSERT [dbo].[Musteriler] ([TC], [Ad], [Soyad], [Cinsiyet], [DoğumTarihi], [Telefon], [EMail], [Adres], [Sifre], [Kanal]) VALUES (N'11111111111', N'Test', N'Test', N'0', N'1998-01-01', N'012345678999', N'test@gmail.com', N'sf', N'123456', N'web')
 INSERT [dbo].[Musteriler] ([TC], [Ad], [Soyad], [Cinsiyet], [DoğumTarihi], [Telefon], [EMail], [Adres], [Sifre], [Kanal]) VALUES (N'12345678911', N'Meral', N'Taşdemir', N'0', N'1999-01-31', N'02514746559', N'meral@gmail.com', N'aSADİİİ', N'123', N'web')
 INSERT [dbo].[Musteriler] ([TC], [Ad], [Soyad], [Cinsiyet], [DoğumTarihi], [Telefon], [EMail], [Adres], [Sifre], [Kanal]) VALUES (N'14725836914', N'şevval', N'barut', N'0', N'1999-05-04', N'02581473695', N's@hotmail.com', N'ldsjlkjlk', N'147', N'web')
 SET IDENTITY_INSERT [dbo].[Virman] ON 
